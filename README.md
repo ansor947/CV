@@ -1,3 +1,6 @@
+![Фото](C:\Users\user\OneDrive\Desktop\files\20231113_133821.jpg)
+
+
 # Резюме
 
 ### Программист Python               
